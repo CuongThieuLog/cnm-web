@@ -5,7 +5,7 @@ const Footer = () => {
     <footer>
       <div className="container">
         <Link to="/" className="logo-font">
-          conduit
+          CNM
         </Link>
 
         <span className="attribution">

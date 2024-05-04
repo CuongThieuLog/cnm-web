@@ -12,7 +12,7 @@ const Header = () => {
     <nav className="navbar navbar-light">
       <div className="container">
         <Link to="/" className="navbar-brand">
-          conduit
+          CNM
         </Link>
         <ul className="nav navbar-nav pull-xs-right">
           {Object.keys(routerMeta).map((componentKey: string) => {

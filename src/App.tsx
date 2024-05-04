@@ -1,4 +1,3 @@
-import React from 'react';
 import Router from './Router';
 import UserContextProvider from '@/contexts/UserContextProvider';
 
